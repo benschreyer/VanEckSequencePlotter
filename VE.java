@@ -4,7 +4,7 @@ public class VE extends Frame
 {
 	public VE()
 	{
-		super("Van-Eck sequence");
+		super("Van Eck sequence");
 		setSize(1000,1000);
 	      addWindowListener(new WindowAdapter() {
 	         public void windowClosing(WindowEvent windowEvent){
